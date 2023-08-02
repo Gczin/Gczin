@@ -1,1 +1,2 @@
 git clone <https://link-com-o-nome-do-repositório>Add
+{git config --global user.name gustavo}
